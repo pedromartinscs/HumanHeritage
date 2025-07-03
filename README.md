@@ -1,6 +1,9 @@
 
 # Human Heritage Contract
 
+🌐 **Available Languages**:  
+[English (EN)](./README.md) | [Português (PT-BR)](./README_pt-BR.md)
+
 **The Human Heritage Contract** is an immutable, voluntary social contract designed to serve as the ethical and philosophical foundation for free individuals who wish to align with others without sacrificing autonomy, truth, or empathy.
 
 This is not a movement, ideology, or political platform. It is a foundational agreement — a permanent base protocol — built to protect individualism while enabling peaceful and cooperative coexistence.

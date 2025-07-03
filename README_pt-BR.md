@@ -1,6 +1,9 @@
 
 # Contrato da Herança Humana
 
+🌐 **Idiomas Disponíveis**:  
+[English (EN)](./README.md) | [Português (PT-BR)](./README_pt-BR.md)
+
 **O Contrato da Herança Humana** é um contrato social voluntário e imutável, criado para servir como base ética e filosófica para indivíduos livres que desejam se alinhar com outros sem abrir mão da autonomia, da verdade ou da empatia.
 
 Este não é um movimento, ideologia ou plataforma política. É um acordo fundamental — um protocolo base permanente — construído para proteger o individualismo enquanto permite a convivência pacífica e cooperativa.
@@ -37,7 +40,7 @@ Ao assinar o Contrato da Herança Humana, você declara publicamente:
 
 ## 📎 Recursos
 
-- [PDF do Contrato](./Human_Heritage_Contract.pdf)
+- [PDF do Contrato](./Contrato_da_Heranca_Humana.pdf)
 - [Licença](./LICENSE)
 
 ---
