@@ -2,7 +2,7 @@
 # Contrato da Herança Humana
 
 🌐 **Idiomas Disponíveis**:  
-[English (EN)](./README.md) | [Português (PT-BR)](./README_pt-BR.md)
+[English (EN)](./README.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
 
 **O Contrato da Herança Humana** é um contrato social voluntário e imutável, criado para servir como base ética e filosófica para indivíduos livres que desejam se alinhar com outros sem abrir mão da autonomia, da verdade ou da empatia.
 
