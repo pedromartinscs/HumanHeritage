@@ -598,7 +598,7 @@ It may be included in software, posted publicly, used in arbitration, or integra
 
 It is and always shall be:
 
-> _“The Libertarian Protocol Constitution (LPC), Version 1.1”_
+> _“The Libertarian Protocol Constitution (LPC), Version 1.0”_
 
 ### Preservation and Permanence
 
