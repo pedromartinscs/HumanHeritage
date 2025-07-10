@@ -1,0 +1,26 @@
+# Ignore build scripts and temp files
+*.bat
+*.sh
+*.ps1
+
+# Ignore Pandoc cache
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+
+# Ignore compiled files or hidden OS files
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Optional: ignore node/python stuff if they show up
+node_modules/
+__pycache__/
+*.pyc
+
+# Git metadata safety
+.git/
