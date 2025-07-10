@@ -24,3 +24,41 @@ __pycache__/
 
 # Git metadata safety
 .git/
+
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+build/
+coverage/
+generated_plugin_registrant.dart
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Android/Gradle
+android/.gradle/
+android/local.properties
+*.iml
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/engine/
+
+# Web
+web/.dart_tool/
+
+# Windows/Linux/macOS Builds
+windows/
+linux/
+macos/
+
+# Firebase or secrets (if any)
+*.env
+firebase.json
