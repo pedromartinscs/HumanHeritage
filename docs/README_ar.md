@@ -2,7 +2,7 @@
 # عقد التراث البشري
 
 🌐 **اللغات المتاحة**:  
-[English (EN)](./README.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
+[English (EN)](./index.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
 
 **عقد التراث البشري** هو عقد اجتماعي طوعي وغير قابل للتغيير، يهدف إلى أن يكون أساسًا أخلاقيًا وفلسفيًا للأفراد الأحرار الذين يسعون للتعاون دون التنازل عن استقلالهم أو حقيقتهم أو تعاطفهم.
 
@@ -41,7 +41,7 @@
 
 ## 📎 الموارد
 
-- [عقد PDF](./Aqd_Al_Turath_Al_Bashari.pdf)
+- [عقد PDF](./assets/pdfs/Aqd_Al_Turath_Al_Bashari.pdf)
 - [الترخيص](./LICENSE)
 
 ---

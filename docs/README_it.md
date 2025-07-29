@@ -2,7 +2,7 @@
 # Contratto del Patrimonio Umano
 
 🌐 **Lingue disponibili**:  
-[English (EN)](./README.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
+[English (EN)](./index.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
 
 **Il Contratto del Patrimonio Umano** è un contratto sociale volontario e immutabile, concepito per servire da base etica e filosofica per individui liberi che desiderano allinearsi con altri senza rinunciare alla propria autonomia, verità o empatia.
 
@@ -40,7 +40,7 @@ Firmando il Contratto del Patrimonio Umano, dichiari pubblicamente:
 
 ## 📎 Risorse
 
-- [PDF del Contratto](./Contratto_del_Patrimonio_Umano.pdf)
+- [PDF del Contratto](./assets/pdfs/Contratto_del_Patrimonio_Umano.pdf)
 - [Licenza](./LICENSE)
 
 ---

@@ -2,7 +2,7 @@
 # Human Heritage Contract
 
 🌐 **Available Languages**:  
-[English (EN)](./README.md) | [Português (PT-BR)](https://pedromartinscs.github.io/HumanHeritage/README_pt-BR.html) | [Español (ES)](https://pedromartinscs.github.io/HumanHeritage/README_es.html) | [Français (FR)](https://pedromartinscs.github.io/HumanHeritage/README_fr.html) | [Italiano (IT)](https://pedromartinscs.github.io/HumanHeritage/README_it.html) | [Deutsch (DE)](https://pedromartinscs.github.io/HumanHeritage/README_de.html) | [Русский (RU)](https://pedromartinscs.github.io/HumanHeritage/README_ru.html) | [中文 (ZH)](https://pedromartinscs.github.io/HumanHeritage/README_zh.html) | [हिन्दी (HI)](https://pedromartinscs.github.io/HumanHeritage/README_hi.html) | [العربية (AR)](https://pedromartinscs.github.io/HumanHeritage/README_ar.html) | [한국어 (KO)](https://pedromartinscs.github.io/HumanHeritage/README_ko.html) | [বাংলা (BN)](https://pedromartinscs.github.io/HumanHeritage/README_bn.html) | [日本語 (JA)](https://pedromartinscs.github.io/HumanHeritage/README_ja.html) | [Kiswahili (SW)](https://pedromartinscs.github.io/HumanHeritage/README_sw.html)
+[English (EN)](./README.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
 
 **The Human Heritage Contract** is an immutable, voluntary social contract designed to serve as the ethical and philosophical foundation for free individuals who wish to align with others without sacrificing autonomy, truth, or empathy.
 
@@ -40,7 +40,7 @@ By signing the Human Heritage Contract, you publicly declare:
 
 ## 📎 Resources
 
-- [Contract PDF](https://pedromartinscs.github.io/HumanHeritage/assets/pdfs/Human_Heritage_Contract.pdf)
+- [Contract PDF](./assets/pdfs/Human_Heritage_Contract.pdf)
 - [License](./LICENSE)
 
 ---

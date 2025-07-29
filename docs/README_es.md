@@ -2,7 +2,7 @@
 # Contrato del Legado Humano
 
 🌐 **Idiomas disponibles**:  
-[English (EN)](./README.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
+[English (EN)](./index.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
 
 **El Contrato del Legado Humano** es un contrato social voluntario e inmutable, diseñado para servir como base ética y filosófica para individuos libres que desean alinearse con otros sin sacrificar su autonomía, verdad o empatía.
 
@@ -40,7 +40,7 @@ Al firmar el Contrato del Legado Humano, declaras públicamente:
 
 ## 📎 Recursos
 
-- [PDF del Contrato](./Contrato_del_Legado_Humano.pdf)
+- [PDF del Contrato](./assets/pdfs/Contrato_del_Legado_Humano.pdf)
 - [Licencia](./LICENSE)
 
 ---

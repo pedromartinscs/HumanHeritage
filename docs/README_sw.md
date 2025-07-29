@@ -2,7 +2,7 @@
 # Mkataba wa Urithi wa Binadamu
 
 🌐 **Lugha Zinazopatikana**:  
-[English (EN)](./README.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
+[English (EN)](./index.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
 
 **Mkataba wa Urithi wa Binadamu** ni mkataba wa kijamii wa hiari na usiobadilika, unaotumika kama msingi wa kimaadili na kifalsafa kwa watu huru wanaotaka kushirikiana bila kuacha utambuzi wao, ukweli, au huruma yao.
 
@@ -42,7 +42,7 @@ Kusaini Mkataba wa Urithi wa Binadamu ni kutangaza wazi:
 
 ## 📎 Rasilimali
 
-- [PDF ya Mkataba](./Mkataba_wa_Urithi_wa_Binadamu.pdf)
+- [PDF ya Mkataba](./assets/pdfs/Mkataba_wa_Urithi_wa_Binadamu.pdf)
 - [Leseni](./LICENSE)
 
 ---

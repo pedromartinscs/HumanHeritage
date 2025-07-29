@@ -2,7 +2,7 @@
 # Vertrag des Menschlichen Erbes
 
 🌐 **Verfügbare Sprachen**:  
-[English (EN)](./README.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
+[English (EN)](./index.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
 
 **Der Vertrag des Menschlichen Erbes** ist ein freiwilliger und unveränderlicher Gesellschaftsvertrag, der als ethisches und philosophisches Fundament für freie Individuen dient, die sich mit anderen zusammenschließen möchten, ohne ihre Autonomie, Wahrheit oder Empathie aufzugeben.
 
@@ -40,7 +40,7 @@ Mit der Unterzeichnung des Vertrags des Menschlichen Erbes erklärst du öffentl
 
 ## 📎 Ressourcen
 
-- [PDF des Vertrags](./Vertrag_des_Menschlichen_Erbes.pdf)
+- [PDF des Vertrags](./assets/pdfs/Vertrag_des_Menschlichen_Erbes.pdf)
 - [Lizenz](./LICENSE)
 
 ---
