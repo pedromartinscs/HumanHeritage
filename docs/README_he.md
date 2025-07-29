@@ -1,3 +1,4 @@
+<div dir="rtl" lang="he" style="text-align: right;">
 # חוזה המורשת האנושית
 
 🌐 **שפות זמינות**:  
@@ -69,3 +70,5 @@
 ---
 
 **זה אינו קהילה. זוהי הצהרה. אות. חומת אש לעתיד.**
+
+</div>
