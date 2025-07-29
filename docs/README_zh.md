@@ -2,7 +2,7 @@
 # 人类遗产契约
 
 🌐 **可用语言**:  
-[English (EN)](./index.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
+[English (EN)](./index.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md) | [עברית (HE)](./README_he.md) | [فارسی (FA)](./README_fa.md) | [اردو (UR)](./README_ur.md) | [Türkçe (TR)](./README_tr.md) | [Tiếng Việt (VI)](./README_vi.md) | [Bahasa Indonesia (ID)](./README_id.md)
 
 **人类遗产契约** 是一份自愿且不可更改的社会契约，旨在作为一个道德与哲学的基础，服务于希望团结在一起但又不愿放弃自己自主性、真理或同理心的自由个体。
 

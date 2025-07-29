@@ -2,7 +2,7 @@
 # 인류 유산 계약
 
 🌐 **사용 가능한 언어**:  
-[English (EN)](./index.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md)
+[English (EN)](./index.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md) | [עברית (HE)](./README_he.md) | [فارسی (FA)](./README_fa.md) | [اردو (UR)](./README_ur.md) | [Türkçe (TR)](./README_tr.md) | [Tiếng Việt (VI)](./README_vi.md) | [Bahasa Indonesia (ID)](./README_id.md)
 
 **인류 유산 계약**은 자율성과 진리, 공감을 포기하지 않고 함께하고자 하는 자유로운 개인들을 위한 도덕적·철학적 기반이 되고자 하는 자발적이고 불변의 사회 계약입니다.
 

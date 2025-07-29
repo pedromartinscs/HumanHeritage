@@ -2,7 +2,7 @@
 # חוזה המורשת האנושית
 
 🌐 **שפות זמינות**:  
-[English (EN)](./index.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md) | [עברית (HE)](./README_he.md)
+[English (EN)](./index.md) | [Português (PT-BR)](./README_pt-BR.md) | [Español (ES)](./README_es.md) | [Français (FR)](./README_fr.md) | [Italiano (IT)](./README_it.md) | [Deutsch (DE)](./README_de.md) | [Русский (RU)](./README_ru.md) | [中文 (ZH)](./README_zh.md) | [हिन्दी (HI)](./README_hi.md) | [العربية (AR)](./README_ar.md) | [한국어 (KO)](./README_ko.md) | [বাংলা (BN)](./README_bn.md) | [日本語 (JA)](./README_ja.md) | [Kiswahili (SW)](./README_sw.md) | [עברית (HE)](./README_he.md) | [فارسی (FA)](./README_fa.md) | [اردو (UR)](./README_ur.md) | [Türkçe (TR)](./README_tr.md) | [Tiếng Việt (VI)](./README_vi.md) | [Bahasa Indonesia (ID)](./README_id.md)
 <div dir="rtl" lang="he" style="text-align: right;">
 **חוזה המורשת האנושית** הוא חוזה חברתי בלתי ניתן לשינוי, הנחתם מרצון חופשי, אשר נועד לשמש בסיס מוסרי ופילוסופי עבור יחידים חופשיים המבקשים להתחבר לאחרים מבלי לוותר על האוטונומיה, האמת או החמלה.
 
